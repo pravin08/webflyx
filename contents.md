@@ -1,6 +1,1 @@
-# Contents
-
-- Dune
-- Star Wars
-
-- Classics
+# contents
